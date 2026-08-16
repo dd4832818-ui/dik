@@ -1454,5 +1454,16 @@
     "status": "failed",
     "created_at": "2026-08-16T05:13:08.353Z",
     "completed_at": "2026-08-16T05:13:52.494Z"
+  },
+  "msvdnl9s2vlxf": {
+    "job_id": "msvdnl9s2vlxf",
+    "release_id": 371242417,
+    "release_tag": "build-msvdnl9s2vlxf",
+    "run_id": 31929619317,
+    "user_id": 8962795132,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-16T05:42:05.259Z"
   }
 }
