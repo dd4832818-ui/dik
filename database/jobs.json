@@ -1442,5 +1442,16 @@
     "status": "success",
     "created_at": "2026-08-16T05:06:03.769Z",
     "completed_at": "2026-08-16T05:12:55.345Z"
+  },
+  "msvcmb1tjm9r7": {
+    "job_id": "msvcmb1tjm9r7",
+    "release_id": 371237349,
+    "release_tag": "build-msvcmb1tjm9r7",
+    "run_id": 31928487169,
+    "user_id": 8962795132,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-16T05:13:08.353Z"
   }
 }
