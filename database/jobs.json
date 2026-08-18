@@ -1526,5 +1526,16 @@
     "status": "success",
     "created_at": "2026-08-16T09:58:04.947Z",
     "completed_at": "2026-08-16T10:04:55.486Z"
+  },
+  "msyig0btd0us1": {
+    "job_id": "msyig0btd0us1",
+    "release_id": 372258534,
+    "release_tag": "build-msyig0btd0us1",
+    "run_id": 32126180232,
+    "user_id": 6179479396,
+    "analyze_only": false,
+    "build_type": "release",
+    "status": "pending",
+    "created_at": "2026-08-18T10:19:32.331Z"
   }
 }
